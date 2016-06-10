@@ -1,0 +1,27 @@
+{
+  "name": "wx-node",
+  "version": "1.0.0",
+  "description": "个人微信测试号使用",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinconan/wx-node.git"
+  },
+  "keywords": [
+    "weixin",
+    "node"
+  ],
+  "author": "xinconan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xinconan/wx-node/issues"
+  },
+  "homepage": "https://github.com/xinconan/wx-node#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jssha": "^2.1.0"
+  }
+}
